@@ -1,0 +1,23 @@
+{
+  "date": "2025-06-21",
+  "puzzles": {
+    "easy": {
+      "type": "riddle",
+      "title": "Simple Riddle",
+      "question": "I speak without a mouth and hear without ears. What am I?",
+      "answer": "An echo"
+    },
+    "medium": {
+      "type": "chess",
+      "title": "Mate in 2",
+      "question": "White to move. FEN: r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 2 4",
+      "answer": "1. Bxf7+ Kxf7 2. Nxe5#"
+    },
+    "hard": {
+      "type": "logic",
+      "title": "Truth-tellers & Liars",
+      "question": "A says: 'B is a liar.' B says: 'A and I are both liars.' Who is telling the truth?",
+      "answer": "A is telling the truth."
+    }
+  }
+}

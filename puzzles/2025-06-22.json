@@ -1,0 +1,23 @@
+{
+  "date": "2025-06-21",
+  "puzzles": {
+    "easy": {
+      "type": "riddle",
+      "title": "The Hidden Path",
+      "question": "I have keys but no locks, I have space but no room, you can enter but not go outside. What am I?",
+      "answer": "A keyboard"
+    },
+    "medium": {
+      "type": "logic",
+      "title": "Three Switches",
+      "question": "You are in a room with three light switches. Only one switch controls a light bulb in another room, which you cannot see from where you are. You can flip the switches however you like, but you may only enter the other room once. How do you determine which switch controls the light?",
+      "answer": "Turn on switch 1 and leave it on for a few minutes, then turn it off. Turn on switch 2. Enter the other room. If the bulb is on, it’s switch 2. If it’s off but warm, it’s switch 1. If it’s off and cold, it’s switch 3."
+    },
+    "hard": {
+      "type": "chess",
+      "title": "Mate in 3",
+      "question": "White to move. FEN: r1bq1rk1/pppp1ppp/2n2n2/4p3/2B1P3/2NP1N2/PPP2PPP/R1BQ1RK1 w - - 0 7",
+      "answer": "1. Nxe5 Nxe5 2. d4 Nxc4 3. e5 winning material and exposing Black’s king"
+    }
+  }
+}
