@@ -1,0 +1,23 @@
+{
+  "date": "2025-06-30",
+  "puzzles": {
+    "easy": {
+      "type": "riddle",
+      "title": "The Quiet Companion",
+      "question": "I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",
+      "answer": "An echo"
+    },
+    "medium": {
+      "type": "pattern",
+      "title": "Fill in the Sequence",
+      "question": "What comes next in the sequence: 2, 3, 5, 8, 12, 17, ___?",
+      "answer": "23 (Add 1, 2, 3, 4, 5...)"
+    },
+    "hard": {
+      "type": "logic",
+      "title": "The Bridge Crossing",
+      "question": "Four people need to cross a bridge at night. They have one flashlight, and only two people can cross at a time. They take 1, 2, 7, and 10 minutes respectively. What's the shortest time to get everyone across?",
+      "answer": "17 minutes. (1 & 2 cross → 1 returns → 7 & 10 cross → 2 returns → 1 & 2 cross again)"
+    }
+  }
+}

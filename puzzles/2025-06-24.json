@@ -1,0 +1,23 @@
+{
+  "date": "2025-06-22",
+  "puzzles": {
+    "easy": {
+      "type": "riddle",
+      "title": "Always Running",
+      "question": "I run but never walk, I have a bed but never sleep. What am I?",
+      "answer": "A river"
+    },
+    "medium": {
+      "type": "logic",
+      "title": "The Poisoned Drink",
+      "question": "A man was found dead after drinking a glass of iced tea. The woman who served it said she drank hers first and nothing happened. Both glasses were tested: same poison. How is she alive?",
+      "answer": "The poison was in the ice — she drank quickly before it melted."
+    },
+    "hard": {
+      "type": "chess",
+      "title": "White to Force Mate in 3",
+      "question": "White to move. FEN: r4rk1/pp1n1ppp/2pb4/8/3P4/2N1B3/PPP2PPP/R4RK1 w - - 0 1",
+      "answer": "1. d5 Bb5 2. Nxb5 cxb5 3. Bxb5 winning material and threatening mate"
+    }
+  }
+}

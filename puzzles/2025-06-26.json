@@ -1,0 +1,23 @@
+{
+  "date": "2025-06-26",
+  "puzzles": {
+    "easy": {
+      "type": "riddle",
+      "title": "No Beginning, No End",
+      "question": "I am round but have no corners. I go on forever, yet I’m not alive. What am I?",
+      "answer": "A circle"
+    },
+    "medium": {
+      "type": "math",
+      "title": "The Coin Riddle",
+      "question": "You have 10 coins. 9 of them weigh the same, but 1 is slightly heavier. Using a balance scale, what’s the minimum number of weighings needed to find the heavier coin?",
+      "answer": "2 weighings. Divide the coins into 3 groups: 3-3-4. Compare two groups of 3. Then compare within the heavier group."
+    },
+    "hard": {
+      "type": "logic",
+      "title": "The Prisoner’s Hats",
+      "question": "Four prisoners are lined up. A wall separates the fourth prisoner from the other three. Each prisoner wears either a black or white hat. They can see the hats in front of them but not behind or their own. They can’t turn around or speak except to answer once. They must figure out the color of their own hat. How can they guarantee at least one guesses correctly?",
+      "answer": "The last person in line (who sees two hats) says 'white' if the two hats in front of him are the same, 'black' if they are different. The others use this info and what they see to deduce their own hat color."
+    }
+  }
+}

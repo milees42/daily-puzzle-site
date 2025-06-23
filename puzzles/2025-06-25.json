@@ -1,0 +1,23 @@
+{
+  "date": "2025-06-23",
+  "puzzles": {
+    "easy": {
+      "type": "riddle",
+      "title": "The Forgotten Meal",
+      "question": "You eat me before I'm born, and drink me before I die. What am I?",
+      "answer": "An egg"
+    },
+    "medium": {
+      "type": "pattern",
+      "title": "What's Next?",
+      "question": "What comes next in the sequence: 2, 6, 12, 20, 30, ___?",
+      "answer": "42 (The differences are increasing by 2: +4, +6, +8, +10, +12)"
+    },
+    "hard": {
+      "type": "logic",
+      "title": "The Five Hats",
+      "question": "Five people are wearing hats that are either red or blue. They are standing in a line and can only see the hats of those in front of them. Each person must say out loud what color hat they’re wearing. They can't see their own hat. What strategy guarantees that at least 4 of them guess correctly?",
+      "answer": "The first person counts the number of red hats ahead and says 'red' if it's even, 'blue' if it's odd. Each person after can determine their own hat color based on that and the colors they've heard. This allows at least 4 to guess correctly."
+    }
+  }
+}
